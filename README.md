@@ -8,6 +8,10 @@ This example is to show different parts of the Git repository and varios command
 
 ## Purpose
 
+fhglmdfhsgjdghjdskfghsd.
+
 ## Deployment
+
+sdlfhlsdhflds.
 
 ## How To Contribute
