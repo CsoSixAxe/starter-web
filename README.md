@@ -16,6 +16,7 @@ sdlfhlsdhflds.
 
 ## How To Contribute
 
+Please fork this repo and then issu Pull Requests for review
 
 ### Copyright
 fukosdhjkfdsjf
